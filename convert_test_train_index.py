@@ -15,8 +15,8 @@ training_data, testing_data = train_test_split(files_list, test_size=0.2, random
 
 with open(test_path, 'w') as f:
     for element in testing_data:
-        f.write(element + ",")
+        f.write(element + '\n')
 with open(train_path, 'w') as f:
     for element in training_data:
-        f.write(element + ",")
+        f.write(element + '\n')
 
