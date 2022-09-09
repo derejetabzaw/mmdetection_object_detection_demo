@@ -1,7 +1,7 @@
 import os
 import cv2
 
-images_path = os.path.join('dataset', 'JPEGImages')
+images_path = os.path.join('data/VOC2007', 'JPEGImages')
 ext = "jpg"
 for root, dirs, files in os.walk(images_path):
     for filename in files:
