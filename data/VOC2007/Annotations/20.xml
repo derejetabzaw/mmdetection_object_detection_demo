@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cart_01_Oklahoma_1002_S</folder>
+	<filename>gray00399.png</filename>
+	<path>/home/michael/Documents/scout_test/Cart_01_Oklahoma_1002_S/gray00399.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3577</width>
+		<height>2857</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>API</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>503</ymin>
+			<xmax>478</xmax>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+</annotation>
