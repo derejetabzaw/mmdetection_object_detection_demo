@@ -1,26 +1,26 @@
 <annotation>
-	<folder>Cart_01_Oklahoma_1002_S</folder>
-	<filename>gray00416.png</filename>
-	<path>/home/michael/Documents/scout_test/Cart_01_Oklahoma_1002_S/gray00416.png</path>
+	<folder>tape_labels</folder>
+	<filename>9902548282.jpeg</filename>
+	<path>/home/michael/Documents/tape_labels/9902548282.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3481</width>
-		<height>2729</height>
-		<depth>1</depth>
+		<width>3302</width>
+		<height>3402</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>API</name>
+		<name>chinese</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>244</xmin>
-			<ymin>343</ymin>
-			<xmax>474</xmax>
-			<ymax>448</ymax>
+			<xmin>956</xmin>
+			<ymin>541</ymin>
+			<xmax>2273</xmax>
+			<ymax>1144</ymax>
 		</bndbox>
 	</object>
 </annotation>
