@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no_results</folder>
+	<filename>9902609793.jpg</filename>
+	<path>C:\Users\Deres\Downloads\failed_images-20221011T173952Z-001\failed_images\no_results\9902609793.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3226</width>
+		<height>3402</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinese</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>709</ymin>
+			<xmax>886</xmax>
+			<ymax>2405</ymax>
+		</bndbox>
+	</object>
+</annotation>
