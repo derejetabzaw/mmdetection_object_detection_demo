@@ -1,134 +1,50 @@
 <annotation>
-	<folder></folder>
-	<filename>15_jpg.rf.d4b79e0527a14a1a6ce59aecccdd7f8e.jpg</filename>
-	<path>15_jpg.rf.d4b79e0527a14a1a6ce59aecccdd7f8e.jpg</path>
+	<folder>needs_objectdet</folder>
+	<filename>WY_US_KC_043N080W05_D33610.jpg</filename>
+	<path>C:\Users\Deres\Desktop\Work\NthDS\Object_Detection_2\needs_objectdet\WY_US_KC_043N080W05_D33610.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3226</width>
-		<height>3402</height>
-		<depth>3</depth>
+		<width>2400</width>
+		<height>11848</height>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>API</name>
+		<name>info</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>413</xmin>
-			<xmax>1591</xmax>
-			<ymin>482</ymin>
-			<ymax>1428</ymax>
+			<xmin>1926</xmin>
+			<ymin>187</ymin>
+			<xmax>2400</xmax>
+			<ymax>6053</ymax>
 		</bndbox>
-		<polygon>
-			<x1>421.9512195121951</x1>
-			<y1>1208.9430894308944</y1>
-			<x2>772.3577235772358</x2>
-			<y2>1425.2032520325204</y2>
-			<x3>797.5609756097562</x3>
-			<y3>1426.8292682926829</y3>
-			<x4>830.8943089430894</x4>
-			<y4>1414.6341463414635</y4>
-			<x5>904.0650406504066</x5>
-			<y5>1313.821138211382</y5>
-			<x6>1136.5853658536585</x6>
-			<y6>1116.260162601626</y6>
-			<x7>1408.1300813008131</x7>
-			<y7>1004.0650406504066</y7>
-			<x8>1563.4146341463415</x8>
-			<y8>969.1056910569106</y8>
-			<x9>1590.2439024390244</x9>
-			<y9>942.2764227642276</y9>
-			<x10>1548.780487804878</x10>
-			<y10>513.8211382113822</y10>
-			<x11>1505.6910569105692</x11>
-			<y11>481.3008130081301</y11>
-			<x12>1321.9512195121952</x12>
-			<y12>507.3170731707317</y12>
-			<x13>995.9349593495936</x13>
-			<y13>620.3252032520326</y13>
-			<x14>725.2032520325204</x14>
-			<y14>798.3739837398374</y14>
-			<x15>518.69918699187</x15>
-			<y15>997.5609756097562</y15>
-			<x16>450.4065040650407</x16>
-			<y16>1094.3089430894308</y16>
-			<x17>436.5853658536585</x17>
-			<y17>1130.081300813008</y17>
-			<x18>412.1951219512195</x18>
-			<y18>1161.7886178861788</y18>
-		</polygon>
 	</object>
 	<object>
-		<name>Area</name>
+		<name>info_2</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>713</xmin>
-			<xmax>926</xmax>
-			<ymin>836</ymin>
-			<ymax>1015</ymax>
+			<xmin>702</xmin>
+			<ymin>6063</ymin>
+			<xmax>2397</xmax>
+			<ymax>8363</ymax>
 		</bndbox>
-		<polygon>
-			<x1>712.1951219512196</x1>
-			<y1>970.7317073170732</y1>
-			<x2>772.3577235772358</x2>
-			<y2>1013.8211382113822</y2>
-			<x3>925.2032520325204</x3>
-			<y3>888.6178861788618</y3>
-			<x4>875.609756097561</x4>
-			<y4>834.959349593496</y4>
-		</polygon>
 	</object>
 	<object>
-		<name>Line</name>
+		<name>info_3</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>1221</xmin>
-			<xmax>1491</xmax>
-			<ymin>598</ymin>
-			<ymax>734</ymax>
+			<xmin>708</xmin>
+			<ymin>8903</ymin>
+			<xmax>2389</xmax>
+			<ymax>11818</ymax>
 		</bndbox>
-		<polygon>
-			<x1>1219.5121951219512</x1>
-			<y1>664.2276422764228</y1>
-			<x2>1238.2113821138212</x2>
-			<y2>732.520325203252</y2>
-			<x3>1490.2439024390244</x3>
-			<y3>669.9186991869918</y3>
-			<x4>1477.2357723577236</x4>
-			<y4>596.7479674796748</y4>
-		</polygon>
-	</object>
-	<object>
-		<name>Reel</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>1177</xmin>
-			<xmax>1528</xmax>
-			<ymin>496</ymin>
-			<ymax>664</ymax>
-		</bndbox>
-		<polygon>
-			<x1>1175.609756097561</x1>
-			<y1>589.4308943089432</y1>
-			<x2>1197.560975609756</x2>
-			<y2>663.4146341463414</y2>
-			<x3>1526.8292682926829</x3>
-			<y3>578.8617886178862</y3>
-			<x4>1513.821138211382</x4>
-			<y4>495.1219512195122</y4>
-		</polygon>
 	</object>
 </annotation>

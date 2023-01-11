@@ -1,132 +1,38 @@
 <annotation>
-	<folder></folder>
-	<filename>18_jpg.rf.23e093374c7ba4670c087be6d2fc3cce.jpg</filename>
-	<path>18_jpg.rf.23e093374c7ba4670c087be6d2fc3cce.jpg</path>
+	<folder>needs_objectdet</folder>
+	<filename>WY_US_KC_043N080W05_D33613.jpg</filename>
+	<path>C:\Users\Deres\Desktop\Work\NthDS\Object_Detection_2\needs_objectdet\WY_US_KC_043N080W05_D33613.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3226</width>
-		<height>3402</height>
-		<depth>3</depth>
+		<width>2400</width>
+		<height>9788</height>
+		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>API</name>
+		<name>info</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>1122</xmin>
-			<xmax>2395</xmax>
-			<ymin>496</ymin>
-			<ymax>1230</ymax>
+			<xmin>1770</xmin>
+			<ymin>191</ymin>
+			<xmax>2400</xmax>
+			<ymax>6943</ymax>
 		</bndbox>
-		<polygon>
-			<x1>1121.138211382114</x1>
-			<y1>578.8617886178862</y1>
-			<x2>1209.7560975609756</x2>
-			<y2>975.609756097561</y2>
-			<x3>1244.7154471544716</x3>
-			<y3>1004.0650406504066</y3>
-			<x4>1348.780487804878</x4>
-			<y4>993.4959349593496</y4>
-			<x5>1603.2520325203252</x5>
-			<y5>1010.569105691057</y5>
-			<x6>1866.6666666666667</x6>
-			<y6>1094.3089430894308</y6>
-			<x7>2070.7317073170734</x7>
-			<y7>1229.2682926829268</y7>
-			<x8>2115.4471544715448</x8>
-			<y8>1229.2682926829268</y8>
-			<x9>2394.308943089431</x9>
-			<y9>904.8780487804878</y9>
-			<x10>2386.1788617886177</x10>
-			<y10>848.780487804878</y10>
-			<x11>2257.7235772357726</x11>
-			<y11>744.7154471544716</y11>
-			<x12>2021.138211382114</x12>
-			<y12>615.4471544715448</y12>
-			<x13>1747.1544715447155</x13>
-			<y13>528.4552845528456</y13>
-			<x14>1585.3658536585367</x14>
-			<y14>503.2520325203252</y14>
-			<x15>1452.8455284552845</x15>
-			<y15>495.1219512195122</y15>
-			<x16>1295.1219512195123</x16>
-			<y16>500</y16>
-			<x17>1152.8455284552845</x17>
-			<y17>526.0162601626016</y17>
-		</polygon>
 	</object>
 	<object>
-		<name>Area</name>
+		<name>info_3</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>1458</xmin>
-			<xmax>1710</xmax>
-			<ymin>614</ymin>
-			<ymax>712</ymax>
+			<xmin>702</xmin>
+			<ymin>6977</ymin>
+			<xmax>2387</xmax>
+			<ymax>9788</ymax>
 		</bndbox>
-		<polygon>
-			<x1>1456.9105691056911</x1>
-			<y1>613.0081300813008</y1>
-			<x2>1457.7235772357724</x2>
-			<y2>684.5528455284554</y2>
-			<x3>1704.878048780488</x3>
-			<y3>711.3821138211382</y3>
-			<x4>1708.9430894308944</x4>
-			<y4>632.520325203252</y4>
-		</polygon>
-	</object>
-	<object>
-		<name>Line</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>1986</xmin>
-			<xmax>2287</xmax>
-			<ymin>755</ymin>
-			<ymax>966</ymax>
-		</bndbox>
-		<polygon>
-			<x1>2030.081300813008</x1>
-			<y1>753.6585365853658</y1>
-			<x2>1985.3658536585367</x2>
-			<y2>817.8861788617886</y2>
-			<x3>2241.4634146341464</x3>
-			<y3>965.040650406504</y3>
-			<x4>2286.1788617886177</x4>
-			<y4>908.9430894308944</y4>
-		</polygon>
-	</object>
-	<object>
-		<name>Reel</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>2057</xmin>
-			<xmax>2384</xmax>
-			<ymin>687</ymin>
-			<ymax>934</ymax>
-		</bndbox>
-		<polygon>
-			<x1>2084.5528455284552</x1>
-			<y1>686.178861788618</y1>
-			<x2>2056.0975609756097</x2>
-			<y2>744.7154471544716</y2>
-			<x3>2331.7073170731705</x3>
-			<y3>932.520325203252</y3>
-			<x4>2382.9268292682927</x4>
-			<y4>878.048780487805</y4>
-		</polygon>
 	</object>
 </annotation>

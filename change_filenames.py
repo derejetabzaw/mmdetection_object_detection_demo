@@ -1,7 +1,7 @@
 import os
 import cv2
 count = 0
-anno_path = os.path.join('data/VOC2007', 'Annotations')
+anno_path = os.path.join('data/VOC2007', 'JPEGImages')
 for root, dirs, files in os.walk(anno_path):
     for filename in files:
         oldext = os.path.splitext(filename)[1]
