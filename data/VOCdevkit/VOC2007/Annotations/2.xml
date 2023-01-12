@@ -1,0 +1,26 @@
+<annotation>
+	<folder>needs_objectdet</folder>
+	<filename>WY_US_KC_043N079W19_P167.jpg</filename>
+	<path>C:\Users\Deres\Desktop\Work\NthDS\Object_Detection_2\needs_objectdet\WY_US_KC_043N079W19_P167.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1780</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>info</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1826</xmin>
+			<ymin>193</ymin>
+			<xmax>2314</xmax>
+			<ymax>1600</ymax>
+		</bndbox>
+	</object>
+</annotation>
